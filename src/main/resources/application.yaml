@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: bormeytechgirl@gmail.com
+    password: fissvfaofyiwimuy
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
